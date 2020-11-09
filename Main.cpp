@@ -1,4 +1,5 @@
 #include <iostream>
+#include "algoritm.h"
 
 using namespace std;
 

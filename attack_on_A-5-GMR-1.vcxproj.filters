@@ -19,4 +19,68 @@
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="algoritm.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="navigator.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="out.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="out2.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="outkey1.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="outkey2.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="outkey3.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="outkey4.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="outkey5.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="outkey21.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="outkey22.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="outkey23.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="outkey24.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="u1.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="u2.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="u3.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="uz1.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="uz2.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="uz3.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+    <Text Include="gamma.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </Text>
+  </ItemGroup>
 </Project>
